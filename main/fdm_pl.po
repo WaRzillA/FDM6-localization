@@ -86,7 +86,7 @@ msgstr "Powiadom mnie o zakończeniu pobierania poprzez Centrum Powiadomień"
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr "Powiadom mnie o pobraniach, tylko gdy %1 okno jest nieaktywne"
+msgstr "Powiadom mnie o pobraniach tylko gdy %1 okno jest nieaktywne"
 
 msgctxt "AdvancedSettings|"
 msgid "Power management"
@@ -122,11 +122,11 @@ msgstr "Działanie klawisza Delete"
 
 msgctxt "AdvancedSettings|"
 msgid "Remove only from download list"
-msgstr "Tylko usuń z listy pobierania"
+msgstr "Usuń tylko z listy pobierania"
 
 msgctxt "AdvancedSettings|"
 msgid "Delete files"
-msgstr "Usuń pliki"
+msgstr "Usuń utworzone pliki"
 
 msgctxt "AdvancedSettings|"
 msgid "Always ask"
@@ -887,7 +887,7 @@ msgstr "Lista pobierania jest pusta."
 
 msgctxt "DownloadsPage|"
 msgid "Add new download URL."
-msgstr "Dodaj nowy adres pobierania."
+msgstr "By rozpocząć dodaj nowy adres pobierania."
 
 msgctxt "DownloadsPage|"
 msgid "No results found for"
@@ -1361,11 +1361,11 @@ msgstr "Kompaktowy widok listy pobierania"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically remove deleted files from download list"
-msgstr "Automatycznie usuwaj pliki z listy pobierania"
+msgstr "Automatycznie usuwaj usunięte pliki z listy pobierania"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically remove completed downloads from download list"
-msgstr "Automatyczne usuwanie ukończonych pobrań z listy pobierania"
+msgstr "Automatycznie usuwaj ukończończone zadania z listy pobierania"
 
 msgctxt "GeneralSettings|"
 msgid "Use server time for file creation"
